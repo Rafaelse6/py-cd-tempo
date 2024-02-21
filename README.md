@@ -1,7 +1,7 @@
 <h1> Data Cleaning - Tempo.csv </h1>
 
 > Status: completed ✔️
-### Data cleaning in Python, the tempo.csv file should be cleaning according to the following terms:
+### Data cleaning in Python, the tempo.csv file should be cleaned according to the following terms:
 <table>
   <tr>
     <td>Aparencia: sol, nublado, chuva </td><br/>
